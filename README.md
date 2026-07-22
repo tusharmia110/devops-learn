@@ -1,5 +1,5 @@
 # devops-learn
-My DevOps learning journey with hands-on labs, Docker/Kubernetes practice, CI/CD pipelines, and cloud automation examples.
+DevOps hands-on projects covering Kubernetes, Docker, Jenkins CI/CD, Linux administration, AWS services, and automation practices.
 
 # DevOps Learning Repository
 
