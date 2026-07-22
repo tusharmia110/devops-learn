@@ -8,6 +8,7 @@ It covers essential DevOps tools and technologies including:
 
 ## 🔧 Tools & Technologies Covered
 - Linux (RHEL & Ubuntu)
+- ansible-automation
 - Git & GitHub
 - Docker & Containers
 - Kubernetes (CKA Level Practice)
